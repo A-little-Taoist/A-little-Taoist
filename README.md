@@ -1,13 +1,16 @@
-<a href="https://github.com/pulls?q=author%3Akuizuo">
+<a href="https://github.com/pulls?q=author%3A-Little-Taoist">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=A-Little-Taois&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=A-Little-Taoist&theme=gotham&show_icons=true&include_all_commits=true&count_private=true">
     <img alt="Shows A-Little-Taoist's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=A-Little-Taoist&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 
 </a>
 
 ### Hi there 👋
+- 🧑 from China
+- 👨‍💻 Code enthusiast
+- 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
 
 <!--
 **A-little-Taoist/A-Little-Taoist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
